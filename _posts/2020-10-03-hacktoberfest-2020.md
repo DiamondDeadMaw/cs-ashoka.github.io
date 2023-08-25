@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Exploring Open-Source with Hacktoberfest"
-author: tanvi
+authors: [tanvi]
 categories: [ dev, tutorial ]
 image: assets/images/hacktoberfest.png
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Exploring CS Research with Prof Debayan"
-author: manish
+authors: [manish]
 categories: [ research ]
 image: assets/images/debg.png
 ---

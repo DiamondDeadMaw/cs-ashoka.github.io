@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Machine Learning without Code"
-author: soham
+authors: [soham]
 categories: [ Jekyll ]
 image: assets/images/mlnocode.png
 ---

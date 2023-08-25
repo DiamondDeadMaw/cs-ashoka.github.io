@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Core Inductions!"
-author: admin
+authors: [admin]
 categories: [ Jekyll, tutorial ]
 image: assets/images/induction.jpg
 featured: false

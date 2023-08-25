@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Alumni Connect - S1"
-author: tanvi
+authors: [tanvi]
 categories: [ society ]
 image: assets/images/alumcon.png
 ---

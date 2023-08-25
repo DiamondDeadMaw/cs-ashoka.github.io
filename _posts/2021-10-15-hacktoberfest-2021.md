@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hacktoberfest@Ashoka 2021"
-author: soham
+authors: [soham]
 categories: [ dev, tutorial ]
 image: assets/images/Hacktoberfest2.png
 featured: true
